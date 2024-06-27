@@ -21,7 +21,6 @@ computer systems engineering student passionate web developer.
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![MySql](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-   ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=MariaDB)
      ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) 
      ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoft-sql-server) 
          
