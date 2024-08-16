@@ -1,9 +1,9 @@
 <h1>Hello! I'm Luis Yanarico <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Web Developer 🎨 </h2>
+<h2>Software Developer 🎨 </h2>
 
 
 ## 🚀 About Me
-computer systems engineering student passionate web developer.
+I'm Systems Engineering student at Universidad Domingo Savio in Tarija, Bolivia. With a keen interest in software development, web technologies, and digital design, I am continuously learning and expanding my skill set. My journey in technology includes hands-on experience with web development frameworks, backend technologies, and modern design tools.
 
 
 ## 🛠Technologies 
