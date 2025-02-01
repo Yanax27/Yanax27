@@ -25,6 +25,6 @@ I'm Systems Engineering student at Universidad Domingo Savio in Tarija, Bolivia.
      ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoft-sql-server) 
          
 ### Contact Me
-<a href="https://www.linkedin.com/in/luis-yanarico-aldana-9307b1208/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luis%20Yanarico-blue?style=flat-square&logo=linkedin"></a>
+<a href="www.linkedin.com/in/yanaxdev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luis%20Yanarico%20Aldana-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.facebook.com/luisalejandro.yanarico?locale=es_LA"><img alt="Facebook" src="https://img.shields.io/badge/facebook-Luis%20Yanarico%20Aldana-blue?style=flat-square&logo=facebook"></a>
 <a href="luisyanarico.ald@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-luisyanarico.ald@gmail.com-blue?style=flat-square&logo=gmail"></a>  
